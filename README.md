@@ -38,7 +38,7 @@ cd <your-repository>
 
 Skapa en ny katalog för byggfiler och kör CMake:
 
-````bash
+```bash
 mkdir build
 cd build
 cmake ..
@@ -47,17 +47,17 @@ cmake ..
 
 Bygg projektet med make:
 
-````bash
+```bash
 make
 
 #### 4. **Kör programmet**
 
 Kör ditt Hello-World program:
 
-````bash
+```bash
 ./bin/hello
 
 Du bör se följande utmatning:
 
-````bash
+```bash
 Hello,World!
