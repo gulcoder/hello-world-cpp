@@ -1,6 +1,3 @@
-# Hello World C++ Project
-
-## Beskrivning
 # <span style="color:blue">Hello World C++ Project</span>
 
 ## <span style="color:green">Beskrivning</span>
@@ -34,6 +31,8 @@ Klonar projektet till din lokala dator:
 git clone https://github.com/<your-username>/<your-repository>.git
 cd <your-repository>
 
+```
+
 #### 2. **Skapa byggkatalogen och kör CMake**
 
 Skapa en ny katalog för byggfiler och kör CMake:
@@ -43,12 +42,16 @@ mkdir build
 cd build
 cmake ..
 
+```
+
 #### 3. **Bygg projektet**
 
 Bygg projektet med make:
 
 ```bash
 make
+
+```
 
 #### 4. **Kör programmet**
 
@@ -57,7 +60,10 @@ Kör ditt Hello-World program:
 ```bash
 ./bin/hello
 
+```
 Du bör se följande utmatning:
 
 ```bash
 Hello,World!
+
+```
