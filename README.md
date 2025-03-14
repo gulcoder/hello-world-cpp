@@ -23,8 +23,7 @@ Innan du börjar behöver du installera följande verktyg:
 
 Följ dessa steg för att komma igång med projektet:
 
-#### 1.
- **Klona repositoryt**
+#### 1. **Klona repositoryt**
 
 Klonar projektet till din lokala dator:
 ```bash
@@ -32,23 +31,7 @@ git clone https://github.com/<your-username>/<your-repository>.git
 cd <your-repository>
 
 ```
-**Lägg till alla filer till staging area**
-```bash
-git add .
 
-```
-
-**Commit:a ändringar**
-```bash
-git commit -m "Initial commit"
-
-```
-
-**Push till remote repository**
-```bash
-git push -u origin main
-
-```
 #### 2. **Skapa byggkatalogen och kör CMake**
 
 Skapa en ny katalog för byggfiler och kör CMake:
@@ -81,5 +64,25 @@ Du bör se följande utmatning:
 
 ```bash
 Hello,World!
+
+```
+
+#### 5. Lägg upp filerna i din repository
+
+**Lägg till alla filer till staging area**
+```bash
+git add .
+
+```
+
+**Commit:a ändringar**
+```bash
+git commit -m "Initial commit"
+
+```
+
+**Push till remote repository**
+```bash
+git push -u origin main
 
 ```
