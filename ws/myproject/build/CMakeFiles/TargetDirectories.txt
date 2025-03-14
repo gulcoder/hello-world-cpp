@@ -1,0 +1,5 @@
+/Users/gulbaran/hello-world-cpp/ws/myproject/build/CMakeFiles/edit_cache.dir
+/Users/gulbaran/hello-world-cpp/ws/myproject/build/CMakeFiles/rebuild_cache.dir
+/Users/gulbaran/hello-world-cpp/ws/myproject/build/src/CMakeFiles/hello.dir
+/Users/gulbaran/hello-world-cpp/ws/myproject/build/src/CMakeFiles/edit_cache.dir
+/Users/gulbaran/hello-world-cpp/ws/myproject/build/src/CMakeFiles/rebuild_cache.dir
