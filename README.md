@@ -69,19 +69,19 @@ Hello,World!
 
 #### 5. Lägg upp filerna i din repository
 
-**Lägg till alla filer till staging area**
+Lägg till alla filer till staging area
 ```bash
 git add .
 
 ```
 
-**Commit:a ändringar**
+Commit:a ändringar
 ```bash
 git commit -m "Initial commit"
 
 ```
 
-**Push till remote repository**
+Push till remote repository
 ```bash
 git push -u origin main
 
