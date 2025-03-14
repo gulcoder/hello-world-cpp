@@ -1,12 +1,12 @@
-#Hello World C++ Project
+# Hello World C++ Project
 
-##Beskrivning
+## Beskrivning
 
 Det här är ett enkelt Hello World-program skrivet i C++. Programmet är en grundläggande introduktion till hur man sätter upp ett C++-projekt med CMake och Make för att bygga och köra programmet.
 
 Projektet innehåller också en grundläggande mappstruktur som kan användas som en mall för framtida C++-projekt.
 
-###Innehåll
+### Innehåll
 
 src/ - Innehåller källkoden för projektet, inklusive main.cpp.
 include/ - Här kan du lägga till header-filer (om det behövs i framtiden).
@@ -17,14 +17,14 @@ Komma igång
 
 Följ dessa steg för att bygga och köra projektet på din maskin.
 
-###Förutsättningar
+### Förutsättningar
 Innan du börjar behöver du installera följande verktyg:
 
 CMake – För att konfigurera projektet.
 Make – För att bygga projektet.
 En C++-kompilator (t.ex. GCC) – För att kompilera koden.
 
-####Installationssteg
+#### Installationssteg
 1. Klona repositoryt
 
 Först klonar du repositoryt:
